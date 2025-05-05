@@ -77,4 +77,4 @@ function recordWeatherData(cityName, weather) {
 ## 毎日自動実行の設定
 1. Apps Script の「トリガー」設定を開く 
 2. sendLineMessage を 毎日実行 に設定（時間は8:00推奨） 
-3.保存して完了！ 
+3. 保存して完了！ 
