@@ -20,6 +20,7 @@ cd WeatherNotify
 
 ## デプロイ方法
 デプロイする手順については、以下の記事を参考にするとスムーズに進められます。
+<br>
 [初心者向け！毎日の天気予報をLINEに通知し、Googleスプレッドシートに記録するアプリを作成しよう #JavaScript - Qiita](https://qiita.com/nishifeoda/items/7e458b261111f201c724)
 
 ## Google Apps Script の設定
