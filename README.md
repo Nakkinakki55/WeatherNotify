@@ -12,17 +12,17 @@
 ---
 
 ## インストール方法
-### 1. リポジトリをクローン
+### リポジトリをクローン
 ```txt
 git clone https://github.com/Nakkinakki55/WeatherNotify.git
 cd WeatherNotify
 ```
 
-### 2.デプロイ方法
+## デプロイ方法
 デプロイする手順については、以下の記事を参考にするとスムーズに進められます。
 [初心者向け！毎日の天気予報をLINEに通知し、Googleスプレッドシートに記録するアプリを作成しよう #JavaScript - Qiita](https://qiita.com/nishifeoda/items/7e458b261111f201c724)
 
-### 3. Google Apps Script の設定
+## Google Apps Script の設定
 1. Googleスプレッドシートを開き、新しいシートを作成
 2. Apps Script を開き、以下のコードを貼り付けて保存
 ```js
